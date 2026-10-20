@@ -1,0 +1,9 @@
+{
+  "jdk.java.onSave.organizeImports": false,
+  "editor.formatOnSave": false,
+  "[java]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "never"
+    }
+  }
+}
